@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="colorPrimary_light_500">#3F51B5</color>
+    <color name="colorPrimaryDark_light_700">#303F9F</color>
+    <color name="colorPrimaryLight_light_100">#C5CAE9</color>
+    <color name="colorPrimaryAccent_light_200">#FF4081</color>
+    
+    <color name="colorPrimary_dark_700">#455A64</color>
+    <color name="colorPrimaryDark_dark_900">#263238</color>
+    <color name="colorPrimaryLight_dark_500">#607D8B</color>
+    <color name="colorPrimaryAccent_dark_600">#aeea00</color>
+
+</resources>
